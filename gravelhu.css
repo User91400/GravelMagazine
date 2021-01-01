@@ -36,3 +36,15 @@ h2{
 	color: #173B0B;
 }
 
+div{
+	width: 300px;
+
+	display: inline-block;
+	padding-left: 300px;
+
+
+}
+div img{
+	width:40%;
+
+}
