@@ -1,5 +1,7 @@
 /*aligned the header(About,Events..) to the right*/
 .header{
+	
+
 	text-align: right;
 }
 
@@ -9,12 +11,12 @@
 	font-size:15px;
 	font-style: oblique;
 	padding-right: 10px;
-
+	
 }
 .first{
 	width:20%;
 	margin-left: 10px;
-}
+	}
 header img{
 	display: block;
 	margin-left: auto;
@@ -38,13 +40,22 @@ h2{
 
 div{
 	width: 300px;
+	height:300px;
+	box-sizing: border-box;
 
 	display: inline-block;
-	padding-left: 300px;
+	border:10px solid grey;
+	overflow: auto;
+	margin-right: 70px;
+
 
 
 }
 div img{
 	width:40%;
+	float:left;
+	padding-right: 10px;
+	padding-left: 10px;
+	
 
 }
