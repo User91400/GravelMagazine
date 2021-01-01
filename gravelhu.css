@@ -1,0 +1,25 @@
+/*aligned the header(About,Events..) to the right*/
+.header{
+	text-align: right;
+}
+
+/*designed the header*/
+.header li{
+	display: inline-block;
+	font-size:15px;
+	font-style: oblique;
+	padding-right: 10px;
+
+}
+.first{
+	width:20%;
+	margin-left: 10px;
+}
+header img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%
+	
+	}
+
