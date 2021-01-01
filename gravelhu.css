@@ -22,4 +22,17 @@ header img{
 	width: 60%
 	
 	}
+.pic{
+	display: inline-block;
+
+	padding-right: 30px;
+	margin-left: 80px;
+
+
+	width:25%;
+}
+h2{
+	font-size: 30px;
+	color: #173B0B;
+}
 
